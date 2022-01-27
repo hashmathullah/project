@@ -1,0 +1,15 @@
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\bin\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.deps.json
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\bin\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.dll
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\bin\Debug\net5.0\ref\KPMG.AMRCloud.Services.Scoping.Infrastructure.dll
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\bin\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.pdb
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.csprojAssemblyReference.cache
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.AssemblyInfoInputs.cache
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.AssemblyInfo.cs
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.dll
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\obj\Debug\net5.0\ref\KPMG.AMRCloud.Services.Scoping.Infrastructure.dll
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.pdb
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\bin\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.dll
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\bin\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.pdb
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Infrastructure.csproj.CopyComplete

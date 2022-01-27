@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  kpmg.amrcloud.services.scoping.api:
+    image: ${DOCKER_REGISTRY-}kpmgamrcloudservicesscopingapi
+    build:
+      context: .
+      dockerfile: Services/KPMG.AMRCloud.Services.Scoping.API/Dockerfile

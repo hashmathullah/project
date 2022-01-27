@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{54347132-B20E-4DDC-840C-F24A7697A29A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scoping", "Scoping", "{DA77B00D-4BCD-4B61-93E2-57BED016D7B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataImport", "DataImport", "{3D88F499-977A-4CFD-80E3-CFBBA0076F11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Analysis", "Analysis", "{D7D64204-6D5C-47A7-B785-E834879C4779}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.AMRCloud.Services.Scoping.Domain", "Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\KPMG.AMRCloud.Services.Scoping.Domain.csproj", "{134786EE-0FEE-4A72-9781-76E16ACF1F23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Security", "Security", "{CBC27ADB-173F-4C34-A879-193750207491}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.AMRCloud.Services.Scoping.API", "Services\KPMG.AMRCloud.Services.Scoping.API\KPMG.AMRCloud.Services.Scoping.API.csproj", "{C0822C43-55F1-49BD-8BD7-EDE8AB548841}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.AMRCloud.Services.Scoping.Application", "Services\Scoping\KPMG.AMRCloud.Services.Scoping.Application\KPMG.AMRCloud.Services.Scoping.Application.csproj", "{92143B60-0BD6-45B4-8C99-17B3E242AB7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.AMRCloud.Services.Scoping.Infrastructure", "Services\Scoping\KPMG.AMRCloud.Services.Scoping.Infrastructure\KPMG.AMRCloud.Services.Scoping.Infrastructure.csproj", "{7544A727-8E8B-4C73-975B-D060B7535A52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{376411F5-12E9-42D7-A9EC-140DE67F60D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.AMRCloud.Services.Scoping.FunctionalTests", "Services\Scoping\Tests\KPMG.AMRCloud.Services.Scoping.FunctionalTests\KPMG.AMRCloud.Services.Scoping.FunctionalTests.csproj", "{209DF17C-AE8B-41A2-8018-37EE97FDB083}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPMG.AMRCloud.Services.Scoping.UnitTests", "Services\Scoping\Tests\KPMG.AMRCloud.Services.Scoping.UnitTests\KPMG.AMRCloud.Services.Scoping.UnitTests.csproj", "{3535C352-61E8-45A3-83C0-258017E3F483}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IntegrationTests", "IntegrationTests", "{3E23FFD0-6980-4E6D-83A7-87C200B124F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{9DE9CC8B-43FB-45F3-9FCB-FB17DEDCF0B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventBus", "EventBus", "{BB30A6A6-600A-42DE-A033-C6063E6AD7B2}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{4964FF90-C7AA-4EEE-B3C0-4DA450066A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134786EE-0FEE-4A72-9781-76E16ACF1F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134786EE-0FEE-4A72-9781-76E16ACF1F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134786EE-0FEE-4A72-9781-76E16ACF1F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134786EE-0FEE-4A72-9781-76E16ACF1F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0822C43-55F1-49BD-8BD7-EDE8AB548841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0822C43-55F1-49BD-8BD7-EDE8AB548841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0822C43-55F1-49BD-8BD7-EDE8AB548841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0822C43-55F1-49BD-8BD7-EDE8AB548841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92143B60-0BD6-45B4-8C99-17B3E242AB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92143B60-0BD6-45B4-8C99-17B3E242AB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92143B60-0BD6-45B4-8C99-17B3E242AB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92143B60-0BD6-45B4-8C99-17B3E242AB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7544A727-8E8B-4C73-975B-D060B7535A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7544A727-8E8B-4C73-975B-D060B7535A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7544A727-8E8B-4C73-975B-D060B7535A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7544A727-8E8B-4C73-975B-D060B7535A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209DF17C-AE8B-41A2-8018-37EE97FDB083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209DF17C-AE8B-41A2-8018-37EE97FDB083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209DF17C-AE8B-41A2-8018-37EE97FDB083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209DF17C-AE8B-41A2-8018-37EE97FDB083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3535C352-61E8-45A3-83C0-258017E3F483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3535C352-61E8-45A3-83C0-258017E3F483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3535C352-61E8-45A3-83C0-258017E3F483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3535C352-61E8-45A3-83C0-258017E3F483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4964FF90-C7AA-4EEE-B3C0-4DA450066A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4964FF90-C7AA-4EEE-B3C0-4DA450066A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4964FF90-C7AA-4EEE-B3C0-4DA450066A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4964FF90-C7AA-4EEE-B3C0-4DA450066A85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DA77B00D-4BCD-4B61-93E2-57BED016D7B1} = {54347132-B20E-4DDC-840C-F24A7697A29A}
+		{3D88F499-977A-4CFD-80E3-CFBBA0076F11} = {54347132-B20E-4DDC-840C-F24A7697A29A}
+		{D7D64204-6D5C-47A7-B785-E834879C4779} = {54347132-B20E-4DDC-840C-F24A7697A29A}
+		{134786EE-0FEE-4A72-9781-76E16ACF1F23} = {DA77B00D-4BCD-4B61-93E2-57BED016D7B1}
+		{CBC27ADB-173F-4C34-A879-193750207491} = {54347132-B20E-4DDC-840C-F24A7697A29A}
+		{C0822C43-55F1-49BD-8BD7-EDE8AB548841} = {DA77B00D-4BCD-4B61-93E2-57BED016D7B1}
+		{92143B60-0BD6-45B4-8C99-17B3E242AB7A} = {DA77B00D-4BCD-4B61-93E2-57BED016D7B1}
+		{7544A727-8E8B-4C73-975B-D060B7535A52} = {DA77B00D-4BCD-4B61-93E2-57BED016D7B1}
+		{376411F5-12E9-42D7-A9EC-140DE67F60D3} = {DA77B00D-4BCD-4B61-93E2-57BED016D7B1}
+		{209DF17C-AE8B-41A2-8018-37EE97FDB083} = {376411F5-12E9-42D7-A9EC-140DE67F60D3}
+		{3535C352-61E8-45A3-83C0-258017E3F483} = {376411F5-12E9-42D7-A9EC-140DE67F60D3}
+		{BB30A6A6-600A-42DE-A033-C6063E6AD7B2} = {9DE9CC8B-43FB-45F3-9FCB-FB17DEDCF0B0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B630F3BC-50B9-4A0F-89C4-2DAF40C992DF}
+	EndGlobalSection
+EndGlobal

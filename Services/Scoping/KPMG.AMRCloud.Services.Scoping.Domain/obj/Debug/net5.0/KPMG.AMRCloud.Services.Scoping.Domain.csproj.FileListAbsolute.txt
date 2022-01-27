@@ -1,0 +1,12 @@
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\bin\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.deps.json
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\bin\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.dll
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\bin\Debug\net5.0\ref\KPMG.AMRCloud.Services.Scoping.Domain.dll
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\bin\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.pdb
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.csprojAssemblyReference.cache
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.AssemblyInfoInputs.cache
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.AssemblyInfo.cs
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.csproj.CoreCompileInputs.cache
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.dll
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\obj\Debug\net5.0\ref\KPMG.AMRCloud.Services.Scoping.Domain.dll
+E:\Rakesh\Collabera\KPMG\dev\KPMG.AMIRCloud\Services\Scoping\KPMG.AMRCloud.Services.Scoping.Domain\obj\Debug\net5.0\KPMG.AMRCloud.Services.Scoping.Domain.pdb

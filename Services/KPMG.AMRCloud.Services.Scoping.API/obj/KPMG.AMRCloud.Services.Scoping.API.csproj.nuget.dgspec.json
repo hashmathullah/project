@@ -1,0 +1,345 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\KPMG.AMRCloud.Services.Scoping.API\\KPMG.AMRCloud.Services.Scoping.API.csproj": {}
+  },
+  "projects": {
+    "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\KPMG.AMRCloud.Services.Scoping.API\\KPMG.AMRCloud.Services.Scoping.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\KPMG.AMRCloud.Services.Scoping.API\\KPMG.AMRCloud.Services.Scoping.API.csproj",
+        "projectName": "KPMG.AMRCloud.Services.Scoping.API",
+        "projectPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\KPMG.AMRCloud.Services.Scoping.API\\KPMG.AMRCloud.Services.Scoping.API.csproj",
+        "packagesPath": "C:\\Users\\Rakesh Angi\\.nuget\\packages\\",
+        "outputPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\KPMG.AMRCloud.Services.Scoping.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\19.3.0.43\\ToolboxNuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rakesh Angi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Application\\KPMG.AMRCloud.Services.Scoping.Application.csproj": {
+                "projectPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Application\\KPMG.AMRCloud.Services.Scoping.Application.csproj"
+              },
+              "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Domain\\KPMG.AMRCloud.Services.Scoping.Domain.csproj": {
+                "projectPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Domain\\KPMG.AMRCloud.Services.Scoping.Domain.csproj"
+              },
+              "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Infrastructure\\KPMG.AMRCloud.Services.Scoping.Infrastructure.csproj": {
+                "projectPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Infrastructure\\KPMG.AMRCloud.Services.Scoping.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Application\\KPMG.AMRCloud.Services.Scoping.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Application\\KPMG.AMRCloud.Services.Scoping.Application.csproj",
+        "projectName": "KPMG.AMRCloud.Services.Scoping.Application",
+        "projectPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Application\\KPMG.AMRCloud.Services.Scoping.Application.csproj",
+        "packagesPath": "C:\\Users\\Rakesh Angi\\.nuget\\packages\\",
+        "outputPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\19.3.0.43\\ToolboxNuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rakesh Angi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Domain\\KPMG.AMRCloud.Services.Scoping.Domain.csproj": {
+                "projectPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Domain\\KPMG.AMRCloud.Services.Scoping.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Domain\\KPMG.AMRCloud.Services.Scoping.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Domain\\KPMG.AMRCloud.Services.Scoping.Domain.csproj",
+        "projectName": "KPMG.AMRCloud.Services.Scoping.Domain",
+        "projectPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Domain\\KPMG.AMRCloud.Services.Scoping.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rakesh Angi\\.nuget\\packages\\",
+        "outputPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\19.3.0.43\\ToolboxNuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rakesh Angi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Infrastructure\\KPMG.AMRCloud.Services.Scoping.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Infrastructure\\KPMG.AMRCloud.Services.Scoping.Infrastructure.csproj",
+        "projectName": "KPMG.AMRCloud.Services.Scoping.Infrastructure",
+        "projectPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Infrastructure\\KPMG.AMRCloud.Services.Scoping.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Rakesh Angi\\.nuget\\packages\\",
+        "outputPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\19.3.0.43\\ToolboxNuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rakesh Angi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Domain\\KPMG.AMRCloud.Services.Scoping.Domain.csproj": {
+                "projectPath": "E:\\Rakesh\\Collabera\\KPMG\\dev\\KPMG.AMIRCloud\\Services\\Scoping\\KPMG.AMRCloud.Services.Scoping.Domain\\KPMG.AMRCloud.Services.Scoping.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
