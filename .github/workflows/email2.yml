@@ -1,6 +1,20 @@
-- name: Send mail
-  uses: dawidd6/action-send-mail@v3
-  with:
+name: Build2
+
+on:
+  push:
+    branches: main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Hello World
+        run: echo Hello, world!
+      - name: Send mail
+        uses: dawidd6/action-send-mail@v3
+         with:
     # Required mail server address:
     server_address: smtp.gmail.com
     # Required mail server port:
