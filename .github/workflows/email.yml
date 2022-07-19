@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Hello World
-        run: echo Hello, world!123
+        run: echo Hello, world! && exit 1
       - name: Send mail
         if: failure()
         uses: dawidd6/action-send-mail@v2
