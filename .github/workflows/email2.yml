@@ -14,7 +14,7 @@ jobs:
         id: random-color-generator
       - name: Get color
         run: echo "The selected color is ${{ steps.random-color-generator.outputs.SELECTED_COLOR }}"
-      - name: Hello World
+      - name: Hello World && exit1
         run: echo "### Hello world! :rocket:" >> $GITHUB_STEP_SUMMARY
       - name: Send mail
         uses: dawidd6/action-send-mail@v3
