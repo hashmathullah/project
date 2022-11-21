@@ -1,4 +1,4 @@
-name: Build2
+name: Emailnotify2
 
 on:
   push:
