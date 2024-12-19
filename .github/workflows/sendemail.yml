@@ -1,0 +1,23 @@
+name: My Workflow
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  example_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get input
+        id: my_input
+        run: echo "::set-output name=my_input::${{ github.event.inputs.my_input }}"
+        # This sets the output named 'my_input' to the value provided as input in the workflow run.
+        
+      - name: Use the input
+        run: echo "My input is ${{ steps.my_input.outputs.my_input }}"
+        # Now you can use the input value in subsequent steps.
+
+      - name: Run workflow with input
+        uses: ./.github/workflows/testinput.yml
+        with:
+          my_input: 'value_here'
